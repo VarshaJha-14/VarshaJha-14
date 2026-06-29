@@ -1,176 +1,268 @@
+<!--
+  COLOUR PALETTE (4 colours only)
+  ┌─────────────────────────────────────────────┐
+  │  Midnight Navy   #0D1B2A  — backgrounds     │
+  │  Soft Ivory      #F5F0E8  — text / light bg │
+  │  Dusty Rose      #C9737A  — accent / CTA    │
+  │  Sage Green      #7DAF9C  — secondary       │
+  └─────────────────────────────────────────────┘
+-->
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Varsha%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Product%20Manager%20%7C%20Business%20Analyst%20%7C%20UX%20Thinker%20%7C%20Data%20Explorer&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Building+Products+People+Love+%F0%9F%9A%80;Bridging+Business+%2B+Data+%2B+Design+%F0%9F%8C%89;Turning+Insights+into+Impact+%F0%9F%93%8A;From+Wireframes+to+Workflows+%E2%9C%A8" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=200&section=header&text=Varsha%20Jha&fontSize=52&fontColor=F5F0E8&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%E2%80%A2%20UX%20Thinker%20%E2%80%A2%20Data%20Storyteller&descAlignY=58&descSize=17&descColor=7DAF9C" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varshajha)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarshaJha-14)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=C9737A&center=true&vCenter=true&width=620&lines=Building+products+that+earn+their+place+in+people%27s+lives;Fluent+in+users%2C+data%2C+design+%26+business+strategy;From+insight+to+roadmap+to+shipped+feature;Open+to+PM+roles+%E2%80%94+let%27s+talk+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=7DAF9C" /></a>
+&nbsp;
+<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=C9737A" /></a>
+&nbsp;
+<a href="https://github.com/VarshaJha-14"><img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=F5F0E8" /></a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-> *"Great products live at the intersection of user empathy, business strategy, and smart data."*
+### ✦ &nbsp; Who I Am &nbsp; ✦
 
-I'm an aspiring **Product Manager** with a rare combination of skills across **business analysis**, **UX research**, and **data science** — which means I don't just define the "what," I can understand the "why," sketch the "how," and measure the "whether it worked."
+</div>
 
-I believe the best PMs are translators — between users and engineers, between intuition and evidence, between vision and execution. This GitHub is my proof of that.
+I'm an aspiring **Product Manager** with a rare, recruiter-friendly combination — I can write a PRD, sketch a wireframe, run an SQL query, and build a predictive model. That's not breadth for its own sake. It means I speak every stakeholder's language, kill assumptions with data early, and design with real empathy.
+
+My goal is to lead products that matter. Everything on this profile is evidence of how I think.
+
+<br/>
 
 ---
 
-## 🗺️ What You'll Find Here
+## 🚀 &nbsp; Product Management
 
-<table>
+> *Strategy · PRDs · Roadmaps · User Research · Competitive Analysis*
+
+<table width="100%">
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🚀 Product Management
-Strategy · Roadmaps · PRDs · OKRs · Competitive Analysis · Go-to-market
+**[FocusBuddy — PM Case Study](https://github.com/VarshaJha-14/FocusBuddy)**
 
-</td>
-<td align="center" width="25%">
+A full product management case study exploring a productivity app for students. Covers problem definition, user personas, PRD, prioritisation framework, and success metrics.
 
-### 📊 Business Analysis
-Process Mapping · Stakeholder Req. · Market Research · KPI Frameworks · Case Studies
+`PRD` `User Personas` `Prioritisation` `OKRs`
 
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🎨 UX & Design
-User Research · Personas · Wireframes · Usability Testing · Journey Maps
+**[CampusConnect — PM Case Study](https://github.com/VarshaJha-14/CampusConnect-PM-CaseStudy)**
 
-</td>
-<td align="center" width="25%">
+End-to-end PM case study for an AI-driven community & study coordination platform for college students. Covers market sizing, feature roadmap, and go-to-market thinking.
 
-### 🤖 Data Science & Analytics
-Python · SQL · EDA · Dashboards · Predictive Modeling · Storytelling with Data
+`AI Product` `Roadmap` `GTM Strategy` `Case Study`
 
 </td>
 </tr>
 </table>
 
----
-
-## 🔖 Featured Projects
-
-> *(Replace these with your actual repo links — the structure below is ready for you!)*
-
-### 🚀 Product Management
-
-| Project | What it demonstrates | Tools |
-|---|---|---|
-| [**📋 Product Roadmap — [App Name]**](#) | End-to-end PRD: problem definition, user stories, prioritisation with RICE scoring | Notion · Figma · Miro |
-| [**📈 Go-to-Market Strategy — [Product]**](#) | Market sizing, competitive positioning, launch plan and success metrics | Excel · Canva |
-| [**🗺️ OKR Framework — [Domain]**](#) | Quarterly OKRs mapped to business outcomes with tracking cadence | Notion |
-
-### 📊 Business Analysis
-
-| Project | What it demonstrates | Tools |
-|---|---|---|
-| [**🔍 Requirements Analysis — [Project]**](#) | Stakeholder interviews → BRD → functional specifications | Confluence · Jira |
-| [**📉 Market Research — [Industry]**](#) | Competitive benchmarking, TAM/SAM/SOM, SWOT analysis | Excel · Python |
-| [**⚙️ Process Optimisation — [Process]**](#) | As-is vs to-be process mapping, bottleneck identification, ROI of change | Lucidchart |
-
-### 🎨 UX Research & Design
-
-| Project | What it demonstrates | Tools |
-|---|---|---|
-| [**👤 User Research — [Product Area]**](#) | Research plan, interview scripts, affinity mapping, personas | Figma · Miro |
-| [**🖥️ Wireframes & Prototypes — [Feature]**](#) | Low-fi to high-fi wireframes grounded in user research insights | Figma |
-| [**🗺️ Customer Journey Map — [User Type]**](#) | End-to-end journey with pain points, moments of delight, opportunity areas | Miro |
-
-### 🤖 Data Science & Analytics
-
-| Project | What it demonstrates | Tools |
-|---|---|---|
-| [**📊 Exploratory Data Analysis — [Dataset]**](#) | Data cleaning, visual storytelling, key insight extraction | Python · Pandas · Matplotlib |
-| [**🔮 Predictive Model — [Problem]**](#) | Feature engineering, model selection, business interpretation of results | Scikit-learn · Jupyter |
-| [**📈 Dashboard — [Metric]**](#) | Live KPI tracking with actionable business narrative | Tableau / Power BI |
+<br/>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎨 &nbsp; Product Design & UX
 
-<div align="center">
+> *User Research · Personas · Wireframes · Figma · Google UX Certification*
 
-**Product**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**[Bookuey — Book Reading App](https://github.com/VarshaJha-14/Book-Reading-App-Product-Design-UX-Case-Study)**
 
-**Data & Analytics**
+Designed a mobile reading app "Bookuey" from scratch — user research, journey maps, low-fi sketches to high-fi Figma prototype. Built under Google UI/UX Design Certification.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+`Figma` `User Research` `Prototyping` `Google UX Cert`
 
-**Research & Frameworks**
+</td>
+<td width="50%" valign="top">
 
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF6B6B?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile-0099CC?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
-![RICE](https://img.shields.io/badge/RICE%20Scoring-7C3AED?style=flat-square)
-![Jobs to Be Done](https://img.shields.io/badge/Jobs%20to%20Be%20Done-FF9900?style=flat-square)
+**[MovieMate — Movie Companion App](https://github.com/VarshaJha-14/MovieMate-Product-Design-UX-Case-Study)**
 
-</div>
+UX case study and Figma prototype for a personalised movie recommendation and tracking app. Covers competitive analysis, user flows, and usability testing insights.
 
----
+`Figma` `UX Case Study` `User Flows` `Google UX Cert`
 
-## 💡 My PM Philosophy
-
-```
-User Problem  ──►  Why it matters (Business Impact)
-      │
-      ▼
-  Data + Research  ──►  What we know vs. what we assume
-      │
-      ▼
-  UX + Design  ──►  How it feels to the user
-      │
-      ▼
-  Clear Spec  ──►  What gets built and measured
-      │
-      ▼
-  Ship → Learn → Iterate  ──►  Always be improving
-```
-
-I use my data skills to **kill assumptions early**, my UX instincts to **design with empathy**, and my business lens to **always ask "so what?"**
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Advanced product strategy & portfolio thinking
-- 📡 A/B testing and experimentation frameworks
-- 🤖 AI/ML integration from a PM's perspective
-- 📖 Reading: *Inspired* by Marty Cagan · *Continuous Discovery Habits* by Teresa Torres
-
----
-
-## 📬 Let's Connect
-
-I'm actively looking for **Product Management** roles. If you're building something users love and need someone who bridges strategy, design, and data — let's talk.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/varshajha)
-[![Email](https://img.shields.io/badge/Email-Drop%20me%20a%20note-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+---
+
+## 📊 &nbsp; Data Analysis
+
+> *Python · Pandas · Tableau · SQL · Visual Storytelling*
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**[Indian Startup Ecosystem](https://github.com/VarshaJha-14/Project-Indian-Start-Up-Case-Study)**
+
+Analysed funding trends, top sectors, and investor patterns in the Indian startup ecosystem using Python. Extracted key business insights through visual storytelling.
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+<td width="33%" valign="top">
+
+**[StayCatin — Airbnb-style Platform](https://github.com/VarshaJha-14/Project-StayCatin--Tableau)**
+
+Tableau-driven analysis of a property booking platform. Surfaced pricing, occupancy, and demand patterns to guide product and business decisions.
+
+`Tableau` `Dashboard` `Business Insights`
+
+</td>
+<td width="33%" valign="top">
+
+**[Netflix Data Dashboard](https://github.com/VarshaJha-14/Netflix-Data-Analysis-Dashboard)**
+
+Interactive Tableau dashboard analysing Netflix's content library — genre trends, release cadence, country distribution, and content type splits.
+
+`Tableau` `EDA` `Dashboard Design`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🤖 &nbsp; Data Science
+
+> *Machine Learning · APIs · Python · Scikit-learn · Hackathons*
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[DataScience API](https://github.com/VarshaJha-14/DataScience-API)**
+
+Built and integrated data science workflows via API calls — demonstrates applied understanding of model serving and programmatic data pipelines.
+
+`Python` `REST API` `Data Pipelines`
+
+</td>
+<td width="50%" valign="top">
+
+**[Crop Recommendation System — Hackathon](https://github.com/VarshaJha-14/Crop-Recommendation-System--Hackathon-)**
+
+Hackathon project: ML model recommending optimal crops based on soil and climate data. Demonstrates end-to-end DS thinking from data prep to model deployment.
+
+`Machine Learning` `Scikit-learn` `Hackathon` `Python`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🛠 &nbsp; Tools & Skills
+
+<div align="center">
+
+**Product & Strategy**
+
+![Jira](https://img.shields.io/badge/Jira-0D1B2A?style=flat-square&logo=jira&logoColor=7DAF9C)
+![Notion](https://img.shields.io/badge/Notion-0D1B2A?style=flat-square&logo=notion&logoColor=F5F0E8)
+![Confluence](https://img.shields.io/badge/Confluence-0D1B2A?style=flat-square&logo=confluence&logoColor=7DAF9C)
+![Miro](https://img.shields.io/badge/Miro-0D1B2A?style=flat-square&logo=miro&logoColor=C9737A)
+![Figma](https://img.shields.io/badge/Figma-0D1B2A?style=flat-square&logo=figma&logoColor=C9737A)
+
+**Data & Analytics**
+
+![Python](https://img.shields.io/badge/Python-0D1B2A?style=flat-square&logo=python&logoColor=7DAF9C)
+![SQL](https://img.shields.io/badge/SQL-0D1B2A?style=flat-square&logo=postgresql&logoColor=F5F0E8)
+![Pandas](https://img.shields.io/badge/Pandas-0D1B2A?style=flat-square&logo=pandas&logoColor=7DAF9C)
+![Tableau](https://img.shields.io/badge/Tableau-0D1B2A?style=flat-square&logo=tableau&logoColor=C9737A)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0D1B2A?style=flat-square&logo=scikitlearn&logoColor=7DAF9C)
+![Excel](https://img.shields.io/badge/Excel-0D1B2A?style=flat-square&logo=microsoft-excel&logoColor=F5F0E8)
+
+**Frameworks & Methods**
+
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-0D1B2A?style=flat-square&logoColor=F5F0E8)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0D1B2A?style=flat-square&logoColor=F5F0E8)
+![Jobs to Be Done](https://img.shields.io/badge/Jobs%20to%20Be%20Done-0D1B2A?style=flat-square&logoColor=F5F0E8)
+![RICE](https://img.shields.io/badge/RICE%20Prioritisation-0D1B2A?style=flat-square&logoColor=F5F0E8)
+
+</div>
+
+<br/>
+
+---
+
+## 💡 &nbsp; How I Think About Products
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   User Pain  ──►  Why it matters (Business Case)           │
+│        │                                                    │
+│        ▼                                                    │
+│   Data + Research  ──►  Validate before building           │
+│        │                                                    │
+│        ▼                                                    │
+│   UX + Design  ──►  Make it feel effortless                │
+│        │                                                    │
+│        ▼                                                    │
+│   Clear Spec  ──►  Align the team, ship with confidence    │
+│        │                                                    │
+│        ▼                                                    │
+│   Measure  ──►  Learn fast, iterate faster                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+My data background means I kill assumptions early.
+My UX training means I never forget there's a real person on the other side.
+My business lens means every feature has to earn its keep.
+
+<br/>
+
+---
+
+## 📚 &nbsp; Currently
+
+- 🧠 Deepening product strategy & experimentation design
+- 📖 Reading: *Inspired* — Marty Cagan &nbsp;·&nbsp; *Continuous Discovery Habits* — Teresa Torres
+- 🔍 Actively seeking **Product Manager** roles — open to full-time & APM programmes
+
+<br/>
+
+---
+
+<div align="center">
+
+### Let's build something people actually want.
+
+<br/>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=7DAF9C" /></a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-0D1B2A?style=for-the-badge&logo=gmail&logoColor=C9737A" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=120&section=footer&fontColor=F5F0E8" width="100%"/>
 
 </div>
