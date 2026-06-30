@@ -73,7 +73,7 @@ I won't claim to do all of it perfectly. But I do all of it *thoughtfully*, and 
 <div align="center">
 
 ### 🧠 FocusBuddy
-#### [View Repository →](https://github.com/VarshaJha-14/FocusBuddy)
+#### [View Repository →](https://github.com/VarshaJha-14/FocusBuddy) &nbsp;·&nbsp; [🔴 Live Demo →](https://focusbuddy-wbo3.onrender.com/)
 
 </div>
 
@@ -81,7 +81,7 @@ I won't claim to do all of it perfectly. But I do all of it *thoughtfully*, and 
 
 A full PM case study for an AI-powered focus and study app targeting students and self-learners. Covers the complete product lifecycle — from problem discovery and user research through to PRD writing, RICE prioritisation, OKR definition, and success metrics.
 
-Not just "what to build" — but *why*, *for whom*, and *how we'd know if it worked*.
+Not just "what to build" — but *why*, *for whom*, and *how we'd know if it worked*. And unlike most case studies, you can actually click around in it — [try the live MVP →](https://focusbuddy-wbo3.onrender.com/)
 
 ---
 **What this shows:**
@@ -89,8 +89,9 @@ Not just "what to build" — but *why*, *for whom*, and *how we'd know if it wor
 - 📋 Product Requirements Document (PRD)
 - ⚖️ RICE / MoSCoW prioritisation
 - 📈 OKR & KPI definition
+- 🚀 Deployed, working MVP — not just slides
 
-`PM Case Study` `AI Product` `PRD` `Prioritisation` `OKRs`
+`PM Case Study` `AI Product` `PRD` `Prioritisation` `OKRs` `Live MVP`
 
 </td>
 
