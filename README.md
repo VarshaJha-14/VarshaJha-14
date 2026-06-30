@@ -192,9 +192,9 @@ Turns out, people have *very* specific feelings about how their watchlists shoul
 
 ---
 
-## 📊 &nbsp; Data Analysis
+## 📊 &nbsp; Data Analytics & Business Intelligence
 
-> *Python · Pandas · Tableau · SQL · Visual Storytelling*
+> *Python · Pandas · Tableau · SQL · Web Scraping · APIs · Visual Storytelling*
 
 <br/>
 
@@ -240,6 +240,52 @@ Tableau-powered analysis for StayCatin.com (think: Airbnb for India). Surfaced p
 Interactive Tableau dashboard on Netflix's global content library — genre distribution, release cadence, country-level production trends, and Movies vs TV Shows over time. Good data, presented clearly.
 
 `Tableau` `Dashboard` `Content Analytics` `Storytelling`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+<div align="center">
+
+### 🗃️ SQL Business Case Studies
+#### [View →](https://github.com/VarshaJha-14/SQL-Business-Case-Studies)
+
+</div>
+
+A collection of SQL + SQLite case studies that start with a business question, not a query clause — IMDb profitability analysis and employee database reporting, built with multi-table joins, aggregations, and Python integration.
+
+`SQL` `SQLite` `Python` `Business Analytics`
+
+</td>
+
+<td width="33%" valign="top">
+<div align="center">
+
+### 🌐 Market Intelligence via Web Scraping
+#### [View →](https://github.com/VarshaJha-14/Market-Intelligence-using-Python-Web-Scraping)
+
+</div>
+
+Python web scraping projects turning public web data into structured, analysis-ready datasets — bookstore market data, IMDb movies, quotes, and Wikipedia image metadata, built with BeautifulSoup, Selenium, and Pandas.
+
+`Python` `BeautifulSoup` `Selenium` `Web Scraping` `Pandas`
+
+</td>
+
+<td width="33%" valign="top">
+<div align="center">
+
+### 🔗 API Data Collection with Python
+#### [View →](https://github.com/VarshaJha-14/API-Data-Collection-with-Python)
+
+</div>
+
+Hands-on REST API integration with Python — sending HTTP requests, parsing JSON responses, and pulling structured data from public APIs (NASA, OpenAQ, Holiday API, and more) into usable datasets.
+
+`Python` `REST API` `JSON` `Data Integration`
 
 </td>
 
