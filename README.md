@@ -431,7 +431,10 @@ The kind of thing that makes engineers trust you when you're eventually the PM i
 
 ---
 
+
 ## 💡 &nbsp; How I Think About Products
+
+```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║  🔍  Start with the user pain                                    ║
@@ -450,6 +453,7 @@ The kind of thing that makes engineers trust you when you're eventually the PM i
 ║             (the best PMs are never really done)                 ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
+```
 <br/>
 
 ---
