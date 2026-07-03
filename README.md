@@ -461,7 +461,7 @@ The kind of thing that makes engineers trust you when you're eventually the PM i
 ## 📚 &nbsp; Currently
 
 - 🧠 &nbsp; Deepening my understanding of A/B testing, experimentation design & product analytics
-- 📖 &nbsp; Reading: *Inspired* — Marty Cagan &nbsp;·&nbsp; *Continuous Discovery Habits* — Teresa Torres
+- 📖 &nbsp; Reading: *Inspired* — Marty Cagan &nbsp;·&nbsp; *The Mom Test PDF*- Rob Fitzpatrick
 - 🔍 &nbsp; Actively looking for **Product Manager / APM** roles — full-time, open to location
 
 <br/>
