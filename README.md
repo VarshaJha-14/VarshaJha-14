@@ -98,6 +98,37 @@ Not just "what to build" — but *why*, *for whom*, and *how we'd know if it wor
 <td width="50%" valign="top">
 <div align="center">
 
+### 👗 MAISON — AI Fashion Stylist
+#### [View Repository →](https://github.com/VarshaJha-14/Maison-PM-case-study-/tree/main) &nbsp;·&nbsp; [🔴 Live Prototype →](https://maison-ai-stylist.lovable.app)
+
+</div>
+
+**Retailer-Agnostic AI Styling Assistant · PM Case Study**
+
+An end-to-end PM case study for MAISON — an AI fashion assistant that turns an inspiration screenshot or a plain-language brief into a complete, budget-appropriate, purchasable outfit sourced across multiple retailers. Built from a genuine "why hasn't Myntra solved this?" incentive-gap insight, validated through a Wizard-of-Oz desirability experiment before any AI or catalog engineering began.
+
+Covers discovery through delivery: JTBD analysis, competitive/positioning strategy, a full PRD with agile backlog, a Responsible AI framework (bias, hallucination, IP/privacy guardrails), and a metrics + experimentation + GTM plan — plus a working hi-fi prototype, iterated against the spec.
+
+---
+**What this shows:**
+- 🔍 Problem discovery (5 Whys), JTBD & persona development
+- 🧭 Positioning & competitive landscape analysis
+- 📋 PRD, acceptance criteria & agile backlog (RICE-scored)
+- 🤖 Responsible AI: failure modes, bias, privacy & IP guardrails
+- 🧪 A/B test design, North Star metric & GTM/monetization strategy
+- 🎨 Hi-fi prototype critique & iteration against spec
+
+`PM Case Study` `AI Product` `PRD` `Responsible AI` `Experimentation` `GTM` `Live Prototype`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+<div align="center">
+
 ### 🎓 CampusConnect
 #### [View Repository →](https://github.com/VarshaJha-14/CampusConnect-PM-CaseStudy)
 
@@ -119,6 +150,8 @@ Think: "What if college students had a smarter way to study together?"
 `PM Case Study` `AI Platform` `GTM` `EdTech` `Roadmap`
 
 </td>
+
+<td width="50%" valign="top"></td>
 
 </tr>
 </table>
@@ -399,56 +432,3 @@ The kind of thing that makes engineers trust you when you're eventually the PM i
 ---
 
 ## 💡 &nbsp; How I Think About Products
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  🔍  Start with the user pain                                    ║
-║          │    (not the solution someone already has in mind)     ║
-║          ▼                                                       ║
-║  📊  Ground it in data + research                               ║
-║          │    (validate before building, always)                 ║
-║          ▼                                                       ║
-║  🎨  Design for how it feels, not just what it does             ║
-║          │    (a feature nobody uses isn't a feature)            ║
-║          ▼                                                       ║
-║  📋  Write a spec that aligns the whole team                     ║
-║          │    (clarity now saves arguments later)                ║
-║          ▼                                                       ║
-║  📈  Ship → Measure → Learn → Repeat                            ║
-║             (the best PMs are never really done)                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
-## 📚 &nbsp; Currently
-
-- 🧠 &nbsp; Deepening my understanding of A/B testing, experimentation design & product analytics
-- 📖 &nbsp; Reading: *Inspired* — Marty Cagan &nbsp;·&nbsp; *Continuous Discovery Habits* — Teresa Torres
-- 🔍 &nbsp; Actively looking for **Product Manager / APM** roles — full-time, open to location
-
-<br/>
-
----
-
-<div align="center">
-
-### If you've made it this far — hi! 👋
-
-I'm always happy to connect, chat about products, or just geek out over a good case study.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/varsha-jha-66870916b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-06141B?style=for-the-badge&logo=linkedin&logoColor=CCD0CF"/></a>
-&nbsp;&nbsp;
-<a href="mailto:itsvarshajha14@gmail.com"><img src="https://img.shields.io/badge/itsvarshajha14%40gmail.com-06141B?style=for-the-badge&logo=gmail&logoColor=9BA8AB"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=06141B&height=120&section=footer" width="100%"/>
-
-</div>
