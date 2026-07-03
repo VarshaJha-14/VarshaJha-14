@@ -432,3 +432,52 @@ The kind of thing that makes engineers trust you when you're eventually the PM i
 ---
 
 ## 💡 &nbsp; How I Think About Products
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  🔍  Start with the user pain                                    ║
+║          │    (not the solution someone already has in mind)     ║
+║          ▼                                                       ║
+║  📊  Ground it in data + research                               ║
+║          │    (validate before building, always)                 ║
+║          ▼                                                       ║
+║  🎨  Design for how it feels, not just what it does             ║
+║          │    (a feature nobody uses isn't a feature)            ║
+║          ▼                                                       ║
+║  📋  Write a spec that aligns the whole team                     ║
+║          │    (clarity now saves arguments later)                ║
+║          ▼                                                       ║
+║  📈  Ship → Measure → Learn → Repeat                            ║
+║             (the best PMs are never really done)                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+<br/>
+
+---
+
+## 📚 &nbsp; Currently
+
+- 🧠 &nbsp; Deepening my understanding of A/B testing, experimentation design & product analytics
+- 📖 &nbsp; Reading: *Inspired* — Marty Cagan &nbsp;·&nbsp; *Continuous Discovery Habits* — Teresa Torres
+- 🔍 &nbsp; Actively looking for **Product Manager / APM** roles — full-time, open to location
+
+<br/>
+
+---
+
+<div align="center">
+
+### If you've made it this far — hi! 👋
+
+I'm always happy to connect, chat about products, or just geek out over a good case study.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/varsha-jha-66870916b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-06141B?style=for-the-badge&logo=linkedin&logoColor=CCD0CF"/></a>
+&nbsp;&nbsp;
+<a href="mailto:itsvarshajha14@gmail.com"><img src="https://img.shields.io/badge/itsvarshajha14%40gmail.com-06141B?style=for-the-badge&logo=gmail&logoColor=9BA8AB"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=06141B&height=120&section=footer" width="100%"/>
+
+</div>
