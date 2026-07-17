@@ -18,6 +18,8 @@
 
 <br/>
 
+<a href="https://resume-profile-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-06141B?style=for-the-badge&logo=googlechrome&logoColor=CCD0CF"/></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/varsha-jha-66870916b/"><img src="https://img.shields.io/badge/LinkedIn-06141B?style=for-the-badge&logo=linkedin&logoColor=CCD0CF"/></a>
 &nbsp;
 <a href="mailto:itsvarshajha14@gmail.com"><img src="https://img.shields.io/badge/Gmail-06141B?style=for-the-badge&logo=gmail&logoColor=9BA8AB"/></a>
@@ -447,7 +449,7 @@ The kind of thing that makes engineers trust you when you're eventually the PM i
 ║          │    (a feature nobody uses isn't a feature)            ║
 ║          ▼                                                       ║
 ║  📋  Write a spec that aligns the whole team                     ║
-║          │    (clarity now saves arguments later)                ║
+║          │    (clarity now saves arguments later)                 ║
 ║          ▼                                                       ║
 ║  📈  Ship → Measure → Learn → Repeat                            ║
 ║             (the best PMs are never really done)                 ║
@@ -476,6 +478,8 @@ I'm always happy to connect, chat about products, or just geek out over a good c
 
 <br/>
 
+<a href="https://resume-profile-delta.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-06141B?style=for-the-badge&logo=googlechrome&logoColor=CCD0CF"/></a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/varsha-jha-66870916b/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-06141B?style=for-the-badge&logo=linkedin&logoColor=CCD0CF"/></a>
 &nbsp;&nbsp;
 <a href="mailto:itsvarshajha14@gmail.com"><img src="https://img.shields.io/badge/itsvarshajha14%40gmail.com-06141B?style=for-the-badge&logo=gmail&logoColor=9BA8AB"/></a>
